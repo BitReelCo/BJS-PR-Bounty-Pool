@@ -4,7 +4,7 @@
 # BJS PR BountyPool
 
 ## Mission
-Bounties are simply _incentives for pushing BabylonJS forward for the benefit of our **awesome** and growing community!_ Active bounties for the BabylonJS PR Bounty Pool are the open issues in this project. When the claim issue is opened on the offical BabylonJS repo(s) by a PR, the author of that PR is considered eligible for the bounty once reviewed by the BJS team and the bounties criteria is met to a satisfactory degree. Bounty rewards typically range from **$50** to **$1000** and paid out promptly within 2-3 weeks after following the instructions outlined further down.
+Bounties in this pool are simply _incentives for pushing BabylonJS forward for the benefit of our **awesome** and growing community!_ Active bounties for the BabylonJS PR Bounty Pool are the open issues in this project. When the claim issue is opened on the offical BabylonJS repo(s) by a PR, the author of that PR is considered eligible for the bounty once reviewed by the BJS team and the bounties criteria is met to a satisfactory degree. Bounty rewards typically range from **$50** to **$1000** and paid out promptly within 2-3 weeks after following the instructions outlined further down.
 
 ### Open Bounties
 These **[Open Bounty]** issues are smaller features and bugfixes that can be claimed and worked on by anyone until closed by a mod. Be curtious and mention with a comment that you are working on the bounty so it can be labeled as In Progress and claimed early on. When you are finished, follow the instructions below for submmitting your fix.
