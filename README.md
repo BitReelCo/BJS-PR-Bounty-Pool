@@ -19,3 +19,5 @@ After a time of inactivity or response from a developer working on a bounty, it 
 
 ## How to Propose
 Post in the [BabylonJS Forums](https://forum.babylonjs.com/)
+
+## The BJS Bounty Pool is ONLY able to payout via PayPal. Accomodations will not be made for any other methods of transfer. Appolgies in advance. 
