@@ -12,7 +12,7 @@ Bounties with a certain complexity will be labeled as RFP Open. RFP stands for R
 ## Submitting an Open Bounty Fix
 * Find an issue that fits your skills and interests on the [Bounty Board](https://github.com/BitReelCo/BJS-PR-Bounty-Pool)'s open issues and comment and fix it or comment a proposal!
 * Open a Pull Request with your work back in the [BabylonJS Main Repo](https://github.com/BabylonJS/Babylon.js) or which ever BJS repo(s) your bounty claim pertains to!
-* Include "fixes BJS Bounty # ..." at the beginning of its title followed by it's change. Once the PR is approved and merged by the BJS team, simply message [br-matt](https://forum.babylonjs.com/u/br-matt) on the BabylonJS forums for further details on claiming the reward.
+* Include "fixes Bounty # ..." at the beginning of its title followed by it's change. Once the PR is approved and merged by the BJS team, simply message [br-matt](https://forum.babylonjs.com/u/br-matt) on the BabylonJS forums for further details on claiming the reward.
 
 ## Inactivity
 After a time of inactivity or response from a developer working on a bounty, it may be moved back to open.
