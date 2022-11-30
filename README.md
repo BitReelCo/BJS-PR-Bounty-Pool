@@ -2,7 +2,17 @@
 
 ![](https://img.shields.io/badge/Total%20Pool-5000-green)    ![](https://img.shields.io/badge/Active%20Bounties-2500-blue)      ![](https://img.shields.io/badge/Paid%20Out-0-orange)
 
-# BJS PR BountyPool
+<table>
+  <tr>
+    <td>
+      <span><h1>BJS PR BountyPool</h1></span>
+    </td>
+    <td>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Babylon_logo_v4.svg/1024px-Babylon_logo_v4.svg.png" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Babylon_logo_v4.svg/1024px-Babylon_logo_v4.svg.png)" width="100" style="padding-top: 40px;" />
+    </td>
+  </tr>
+</table>
+
 
 ## Mission
 Bounties in this pool are _incentives for pushing BabylonJS forward for the benefit of our **awesome** and growing community!_ Active bounties for the BabylonJS PR Bounty Pool are the open issues in this project. When the claim issue is opened on the offical BabylonJS repo(s) by a PR, the author of that PR is considered eligible for the bounty once reviewed by the BJS team and the bounties criteria is met to a satisfactory degree. Bounty rewards typically range from **$50** to **$1000** and paid out promptly within 2-3 weeks after following the instructions outlined further down.
