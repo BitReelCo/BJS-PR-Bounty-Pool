@@ -1,5 +1,6 @@
 ## The BJS Bounty Pool is ONLY able to payout via PayPal. Accomodations will not be made for any other methods of transfer. Appolgies in advance.
 
+![](https://img.shields.io/badge/Total%20Pool-5000-green)    ![](https://img.shields.io/badge/Active%20Bounties-2500-blue)      ![](https://img.shields.io/badge/Paid%20Out-0-orange)
 
 # BJS PR BountyPool
 
@@ -24,7 +25,7 @@ Are you curious or stuck on a certain Bounty ? Well...
 Mods of the BJS BountyPool reserve the right to reopen any Open Bounties or Open RFP at any time. This would be rare but one reason will be **inactivity** if the developer not responding for 20 calendar days or showing little or no effort towards progress. See **Getting Help** section above!!
 
 ## How to Propose
-Post in the [BabylonJS Forums](https://forum.babylonjs.com/) with your idea and make sure to call out that it's for the BountyPool. Currently there are more funds than issues, a tracker of the amount at the root of this github repostoty.
+Post in the [BabylonJS Forums](https://forum.babylonjs.com/) with your idea and make sure to call out that it's for the BountyPool!
 
 ## Donating to the pool
 Currently not accepting donations. Exploring avenues and gauging interest of other companies heavity utiliziing BabylonJS to donate as well to the pool. Please send a PM on the Babylon forums to [br-matt](https://forum.babylonjs.com/u/br-matt) to help gauge any interest.
