@@ -29,7 +29,7 @@ Bounties with a certain complexity will be labeled as **[Open RFP]**. RFP stands
 * Include "fixes Bounty # ..." at the beginning of its title followed by it's change. Once the PR is approved and merged by the BJS team, simply message [br-matt](https://forum.babylonjs.com/u/br-matt) on the BabylonJS forums for further details on claiming the reward.
 
 # Getting help!
-Are you curious or stuck on a certain Bounty ? Well...
+Are you curious or stuck on a certain Bounty ? Well the team and community will be more than glad to help you on the [BabylonJS Community Forums](https://forum.babylonjs.com/) and make sure to mention you are working on a Bounty.
 
 ## Issues being reopened _*(important)*_
 Mods of the BJS BountyPool reserve the right to reopen any Open Bounties or Open RFP at any time. This would be rare but one reason will be **inactivity** if the developer not responding for 20 calendar days or showing little or no effort towards progress. See **Getting Help** section above!!
