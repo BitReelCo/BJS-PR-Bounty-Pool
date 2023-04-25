@@ -1,6 +1,6 @@
 ## The BJS Bounty Pool is ONLY able to payout via PayPal. Accomodations will not be made for any other methods of transfer. Appolgies in advance.
 
-![](https://img.shields.io/badge/Total%20Pool-5000-green)    ![](https://img.shields.io/badge/Active%20Bounties-2400-blue)      ![](https://img.shields.io/badge/Paid%20Out-0-orange)
+![](https://img.shields.io/badge/Total%20Pool-5000-green)    ![](https://img.shields.io/badge/Active%20Bounties-4450-blue)      ![](https://img.shields.io/badge/Paid%20Out-0-orange)
 
 <table>
   <tr>
